@@ -1,9 +1,9 @@
-### Olá eu sou a Jeniffer Souza
+### Olá eu sou a Pâmela Eduarda
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 Atualmente estou trabalhando com Produtos 
-- 🌱  Estudando Javascript e C na faculdade
-- 😄 Pronouns: ela/dela
+- 🔭 Análise e Desenvolvimento de Sistemas 
+- 🌱  Estudando C 
+- 😄 
 <div align="left">
   <a href="https://github.com/jeniffersouza">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=jeniffersouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
